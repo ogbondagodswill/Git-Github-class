@@ -1,2 +1,2 @@
-# Git-Github-class
-first
+# GitGithubclass
+second project
